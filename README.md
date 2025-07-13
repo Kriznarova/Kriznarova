@@ -1,5 +1,3 @@
-- ExoEpoch!! Known as Rei
-- Python Begginer
 
 <!---
 ExoEpoch/ExoEpoch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
